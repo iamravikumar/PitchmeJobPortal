@@ -1,0 +1,42 @@
+﻿@model Pitchme.Models.Implementation.JobSubscription
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>JobSubscription</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.subscriptionDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.subscriptionDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.subscriptionExpiration)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.subscriptionExpiration)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.subscriptionType)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.subscriptionType)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

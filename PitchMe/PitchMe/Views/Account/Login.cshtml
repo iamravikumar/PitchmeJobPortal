@@ -1,0 +1,61 @@
+﻿@using PitchMe.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+}
+
+
+
+
+
+<!-- signin-page -->
+<section class="clearfix job-bg user-page">
+    <div class="container">
+        <div class="row text-center">
+            <!-- user-login -->
+            <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+                <div class="user-account">
+                    <h2>User Login</h2>
+                    <!-- form -->
+                    @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-group">
+                            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", @placeholder = "email" })
+                            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control", @placeholder = "password" })
+                            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                        </div>
+                        <h4 class="text-danger">
+                            @ViewBag.Msg
+                        </h4>
+                       
+                        <div class="row">
+                            <button type="submit" class="btn">Login</button>
+                        </div>
+                    }
+
+                    <!-- forgot-password -->
+                    <div class="user-option">
+                        <div class="checkbox pull-left">
+                            @Html.CheckBoxFor(m => m.RememberMe)
+                            @Html.LabelFor(m => m.RememberMe)
+                        </div>
+                        <div class="pull-right forgot-password">
+                            <a href="#">Forgot password</a>
+                        </div>
+                    </div><!-- forgot-password -->
+                    
+                </div> 
+                @Html.ActionLink("Create a New Account", "Register",null, new { @class="btn-primary" })                            
+            </div><!-- user-login -->
+        </div><!-- row -->
+    </div><!-- container -->
+</section><!-- signin-page -->
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

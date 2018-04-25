@@ -1,0 +1,415 @@
+﻿@{ Layout = null;}
+
+@model PitchMe.Models.Implementation.Subscription
+
+
+
+
+
+@*<link rel="stylesheet" href="https://cdn.webrtc-experiment.com/style.css">*@
+<link href="~/assets/css/web-rtc-style.css" rel="stylesheet" />
+<style>
+    audio {
+        vertical-align: bottom;
+        width: 10em;
+    }
+
+    video {
+        vertical-align: top;
+        max-width: 100%;
+    }
+
+    }
+</style>
+<script>
+            document.createElement('article');
+            document.createElement('footer');
+</script>
+
+<!-- script used for audio/video/gif recording -->
+@*<script src="https://cdn.webrtc-experiment.com/RecordRTC.js"> </script>*@
+<script src="~/assets/js/RecordRTC.js"></script>
+
+
+<body>
+
+    <article>
+        <header style="text-align: center;">
+            <h1>
+                You can now record your pitch
+            </h1>
+
+        </header>
+        @*<div class="github-stargazers"></div>*@
+
+        <section class="experiment">
+
+            <p style="text-align:center;">
+                <video id="preview" controls style="border: 1px solid rgb(15, 158, 238); height: 500px; width: auto;"></video>
+            </p>
+
+            <div style="margin-left:15px">
+                <button id="startRec">Start</button>
+                <button id="stopRec" disabled>Stop</button>
+                <button id="uploadRec" disabled>Submit</button>
+            </div>
+            <div id="container" style="padding:5px 5px;"></div>
+        </section>
+
+
+
+
+        <script>
+            /*
+                // PostBlob method uses XHR2 and FormData to submit
+                // recorded blob to the PHP server
+                function PostBlob(blob) {
+                    // FormData
+                    var formData = new FormData();
+                    formData.append('video-filename', fileName);
+                    formData.append('video-blob', blob);
+
+                    // progress-bar
+                    var hr = document.createElement('hr');
+                    container.appendChild(hr);
+                    var strong = document.createElement('strong');
+                    strong.id = 'percentage';
+                    strong.innerHTML = 'Video upload progress: ';
+                    container.appendChild(strong);
+                    var progress = document.createElement('progress');
+                    container.appendChild(progress);
+
+                    // POST the Blob using XHR2
+                    xhr('../Job/PostRecordedAudioVideo', formData, progress, percentage, function (fName) {
+                        container.appendChild(document.createElement('hr'));
+                        var mediaElement = document.createElement('video');
+
+                        var source = document.createElement('source');
+                        source.src = document.location.origin + '/uploads/' + fName.replace(/"/g, '');
+                        source.type = type = type = 'video/mp4; codecs="avc1.4D401E, mp4a.40.2"'; //'video/webm; codecs="vp8, vorbis"';
+
+                        debugger;
+                        mediaElement.appendChild(source);
+
+                        mediaElement.controls = true;
+                        container.removeChild(container.lastChild); //just added this
+                        container.appendChild(mediaElement);
+                        mediaElement.play();
+
+                        progress.parentNode.removeChild(progress);
+                        strong.parentNode.removeChild(strong);
+                        hr.parentNode.removeChild(hr);
+                    });
+                }
+
+
+
+                var record = document.getElementById('record');
+                var stop = document.getElementById('stop');
+                var deleteFiles = document.getElementById('delete');
+            */
+
+            //new buttons
+                var btnRecord = document.getElementById('startRec');
+                var btnStopRec = document.getElementById('stopRec');
+                //var btnPreview = document.getElementById('previewRec');
+                var btnUpload = document.getElementById('uploadRec');
+
+             //Event Listeners
+                var recVid; var vidFileName;
+                btnRecord.onclick = function () {
+                    btnRecord.disabled = true;
+                    btnUpload.disabled = true;
+
+                    navigator.getUserMedia = navigator.getUserMedia || navigator.mozGetUserMedia || navigator.webkitGetUserMedia;
+                    navigator.getUserMedia({
+                        audio: true,
+                        video: true
+                    }, function (stream) {
+                        preview.src = window.URL.createObjectURL(stream);
+                        preview.play();
+
+                        recVid = RecordRTC(stream, {
+                            type: 'video'
+                        });
+
+                        //Timeout
+                        var vidDuration = 3 * 1000 * 60;
+                        recVid.setRecordingDuration(vidDuration, function () {
+                               btnUpload.disabled = false;
+                               btnStopRec.disabled = true;
+                               var blob = this.getBlob();
+                               preview.src = this.toURL();
+                               recVid.stopRecording();
+                               vidFileName = @ViewBag.JobApplicationId + '_' + (Math.round(Math.random() * 99999999) + 99999999) + '.webm';
+                               preview.play();
+                             });
+
+                        recVid.startRecording();
+
+                        btnStopRec.disabled = false;
+                    }, function (error) {
+                        alert(error.toString());
+                    });
+                };
+
+
+                btnStopRec.onclick = function () {
+                    btnRecord.disabled = false;
+                    btnStopRec.disabled = true;
+
+                    debugger;
+                    vidFileName = @ViewBag.JobApplicationId + '_' + (Math.round(Math.random() * 99999999) + 99999999) + '.webm';
+
+                    recVid.stopRecording(function () {
+                        var url = this.toURL();
+
+                        preview.src = url;
+                    });
+                    preview.play();
+                    btnUpload.disabled = false;
+                };
+
+
+            btnUpload.onclick = function () {
+                btnRecord.disabled = true;
+                btnStopRec.disabled = true;
+
+                UploadVid(recVid.getBlob());
+            };
+            //end event Listeners
+
+            //Helpers
+            function UploadVid(blob) {
+                // FormData
+                var formData = new FormData();
+                formData.append('video-filename', vidFileName);
+                formData.append('video-blob', blob);
+
+                // progress-bar
+                var hr = document.createElement('hr');
+                container.appendChild(hr);
+                var strong = document.createElement('strong');
+                strong.id = 'percentage';
+                strong.innerHTML = 'Video upload progress: ';
+                container.appendChild(strong);
+                var progress = document.createElement('progress');
+                container.appendChild(progress);
+
+                // POST the Blob using XHR2
+                xhrPost('../Job/PostRecordedAudioVideo', formData, progress, percentage, function (response) {
+                    alert(response['msg']);
+                    if (response['status'] == 1) {
+                        window.location.replace("/job/Details/" + @ViewBag.JobId + "?am=as");
+                    }
+                    else if (response['status'] == 0) {
+                        window.location.replace("/JobSubscriptions/Create?videoFileName=" + vidFileName);
+                    }
+                });
+            };
+
+            function xhrPost(url, data, progress, percentage, callback) {
+                var request = new XMLHttpRequest();
+                request.onreadystatechange = function () {
+                    if (request.readyState == 4 && request.status == 200) {
+                        callback(JSON.parse(request.response));
+                    }
+                };
+
+                request.onerror = function () {
+                    alert('an error occured!');
+                }
+
+                if (url.indexOf('/RecordRTC/DeleteFile') == -1) {
+                    request.upload.onloadstart = function () {
+                        percentage.innerHTML = 'Upload started...';
+                    };
+
+                    request.upload.onprogress = function (event) {
+                        progress.max = event.total;
+                        progress.value = event.loaded;
+                        percentage.innerHTML = 'Upload Progress ' + Math.round(event.loaded / event.total * 100) + "%";
+                    };
+
+                    request.upload.onload = function () {
+                        percentage.innerHTML = 'Saved!';
+                    };
+                }
+
+                request.open('POST', url);
+                request.send(data);
+            }
+
+            /*
+            function UploadTempVid(blob) {
+                // FormData
+                var formData = new FormData();
+                formData.append('video-filename', vidFileName);
+                formData.append('video-blob', blob);
+
+                // POST the Blob using XHR2
+                xhrTempUpload('../Job/UploadTempVideo', formData, function (vidFileName) {
+                    //container.appendChild(document.createElement('hr'));
+                    var mediaElement = document.createElement('video');
+
+                    var source = document.createElement('source');
+                    source.src = document.location.origin + '/tempPitchVids/' + vidFileName.replace(/"/g, '');
+                    source.type = type = type = 'video/mp4; codecs="avc1.4D401E, mp4a.40.2"'; //'video/webm; codecs="vp8, vorbis"';
+
+                    debugger;
+                    mediaElement.appendChild(source);
+
+                    mediaElement.controls = true;
+                    var child = container.lastChild;
+                    if (child) {
+                        container.removeChild(child);
+                    }
+
+                    container.appendChild(mediaElement);
+                    mediaElement.play();
+
+                    //progress.parentNode.removeChild(progress);
+                    //strong.parentNode.removeChild(strong);
+                    //hr.parentNode.removeChild(hr);
+                });
+            }
+
+            function xhrTempUpload(url, data, callback) {
+                var request = new XMLHttpRequest();
+                request.onreadystatechange = function () {
+                    if (request.readyState == 4 && request.status == 200) {
+                        debugger;
+                        //alert(request.response);
+                        callback(request.responseText);
+                    }
+                };
+
+                request.onerror = function () {
+                    alert('an error occured!');
+                }
+
+                request.open('POST', url);
+                request.send(data);
+            }
+
+            */
+            //end helpers
+
+            //end new buttons
+            /*
+                var preview = document.getElementById('preview');
+
+                var container = document.getElementById('container');
+
+                var recordVideo;
+                record.onclick = function () {
+                    record.disabled = true;
+
+                    navigator.getUserMedia = navigator.getUserMedia || navigator.mozGetUserMedia || navigator.webkitGetUserMedia;
+                    navigator.getUserMedia({
+                        audio: true,
+                        video: true
+                    }, function (stream) {
+                        preview.src = window.URL.createObjectURL(stream);
+                        preview.play();
+
+                        recordVideo = RecordRTC(stream, {
+                            type: 'video'
+                        });
+
+                        recordVideo.startRecording();
+
+                        stop.disabled = false;
+                    }, function (error) {
+                        alert(error.toString());
+                    });
+                };
+
+                var fileName;
+                stop.onclick = function () {
+                    record.disabled = false;
+                    stop.disabled = true;
+
+                    preview.src = '';
+
+                    debugger;
+                    fileName =  (Math.round(Math.random() * 99999999) + 99999999) + '.webm';
+
+                    recordVideo.stopRecording(function () {
+                        PostBlob(recordVideo.getBlob());
+                    });
+
+                    deleteFiles.disabled = false;
+                };
+
+                deleteFiles.onclick = function () {
+                    deleteAudioVideoFiles();
+                };
+
+                function deleteAudioVideoFiles() {
+                    deleteFiles.disabled = true;
+                    if (!fileName) return;
+                    var formData = new FormData();
+                    formData.append('delete-file', fileName);
+                    xhr('/RecordRTC/DeleteFile', formData, null, null, function (response) {
+                        console.log(response);
+                    });
+                    fileName = null;
+                    container.innerHTML = '';
+                }
+
+                function xhr(url, data, progress, percentage, callback) {
+                    var request = new XMLHttpRequest();
+                    request.onreadystatechange = function () {
+                        if (request.readyState == 4 && request.status == 200) {
+                            callback(request.responseText);
+                        }
+                    };
+
+                    if (url.indexOf('/RecordRTC/DeleteFile') == -1) {
+                        request.upload.onloadstart = function () {
+                            percentage.innerHTML = 'Upload started...';
+                        };
+
+                        request.upload.onprogress = function (event) {
+                            progress.max = event.total;
+                            progress.value = event.loaded;
+                            percentage.innerHTML = 'Upload Progress ' + Math.round(event.loaded / event.total * 100) + "%";
+                        };
+
+                        request.upload.onload = function () {
+                            percentage.innerHTML = 'Saved!';
+                        };
+                    }
+
+                    request.open('POST', url);
+                    request.send(data);
+                }
+
+            */
+
+
+                window.onbeforeunload = function () {
+                    if (!!fileName) {
+                        deleteAudioVideoFiles();
+                        return 'It seems that you\'ve not deleted audio/video files from the server.';
+                    }
+                };
+        </script>
+
+
+    </article>
+
+    <footer>
+        <p>
+        </p>
+    </footer>
+
+    <!-- commits.js is useless for you! -->
+    @*<script src="https://cdn.webrtc-experiment.com/commits.js" async> </script>*@
+</body>
+
+
+
+
+

@@ -1,0 +1,15 @@
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logger\bin\Debug\PitchMe.Logger.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logger\bin\Debug\PitchMe.Logger.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logger\obj\Debug\PitchMe.Logger.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logger\obj\Debug\PitchMe.Logger.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logger\obj\Debug\PitchMe.Logger.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logger\bin\Debug\PitchMe.Logger.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logger\bin\Debug\PitchMe.Logger.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logger\obj\Debug\PitchMe.Logger.csprojResolveAssemblyReference.cache
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logger\obj\Debug\PitchMe.Logger.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logger\obj\Debug\PitchMe.Logger.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logger\bin\Debug\PitchMe.Logger.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logger\bin\Debug\PitchMe.Logger.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logger\obj\Debug\PitchMe.Logger.csprojResolveAssemblyReference.cache
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logger\obj\Debug\PitchMe.Logger.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logger\obj\Debug\PitchMe.Logger.pdb

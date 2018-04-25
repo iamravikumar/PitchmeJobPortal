@@ -1,0 +1,117 @@
+﻿@model PitchMe.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Register";
+}
+
+
+
+<section class="job-bg user-page">
+    <div class="container">
+        <div class="row text-center">
+            <!-- user-login -->
+            <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+                <div class="user-account job-user-account">
+                    <h2>Create An Account</h2>
+                    <ul class="nav nav-tabs text-center" role="tablist">
+                        <li role="presentation" class="active"><a href="#find-job" aria-controls="find-job" role="tab" data-toggle="tab">Find A Job</a></li>
+                        <li role="presentation"><a href="#post-job" aria-controls="post-job" role="tab" data-toggle="tab">Post A Job</a></li>
+                    </ul>
+
+                    <div class="tab-content">
+                        <div role="tabpanel" class="tab-pane active" id="find-job">
+                           @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                           { 
+                            @Html.AntiForgeryToken()
+                            @Html.ValidationSummary("", new { @class = "text-danger" })
+                            <div class="row" style="margin-bottom: 7px">
+                                @ViewBag.Msg
+                            </div>
+                                <div class="form-group">
+                                    @*@Html.ValidationMessageFor(m => m.RegisterUserViewModel.Email, "Username has already been taken", new { @class = "text-danger" })*@
+                                    @Html.TextBoxFor(m => m.RegisterUserViewModel.Email, new { @class = "form-control", @placeholder = "Email" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.PasswordFor(m => m.RegisterUserViewModel.Password, new { @class = "form-control", @placeholder = "Password" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.PasswordFor(m => m.RegisterUserViewModel.ConfirmPassword, new { @class = "form-control", @placeholder = "Confirm Password" })
+                                </div>                                                        
+
+                                <div class="checkbox">
+                                    <label class="pull-left checked" for="signing"><input type="checkbox" name="signing" id="signing" onchange="chkTermsChanged()"> By signing up for an account you agree to our Terms and Conditions </label>
+                                </div><!-- checkbox -->
+                            
+                                <button type="submit" id="btnRegUsr" class="btn">Create Account</button>
+                           }
+
+                        </div>
+
+                        <!--Company-->
+                        <div role="tabpanel" class="tab-pane" id="post-job">
+                           @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                           {
+                            @Html.AntiForgeryToken()
+                            @Html.ValidationSummary("", new { @class = "text-danger" })
+                                <div class="form-group">
+                                    @*<input type="text" class="form-control" placeholder="Employer Name">*@
+                                    @Html.TextBoxFor(m => m.RegisterCompanyViewModel.Name, new { @class = "form-control", @placeholder = "Company name" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.TextBoxFor(m => m.RegisterUserViewModel.Email, new { @class = "form-control", @placeholder = "Email" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.PasswordFor(m => m.RegisterUserViewModel.Password, new { @class = "form-control", @placeholder = "Password" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.PasswordFor(m => m.RegisterUserViewModel.ConfirmPassword, new { @class = "form-control", @placeholder = "Confirm Password" })
+                                </div> 
+
+
+                                <div class="form-group">
+                                    @Html.TextBoxFor(m => m.RegisterCompanyViewModel.Description, new { @class = "form-control", @placeholder = "Description" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.TextBoxFor(m => m.RegisterCompanyViewModel.Location, new { @class = "form-control", @placeholder = "Location" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.TextBoxFor(m => m.RegisterCompanyViewModel.ContactNumberOne, new { @class = "form-control", @placeholder = "Contact number one" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.TextBoxFor(m => m.RegisterCompanyViewModel.ContactNumberOne, new { @class = "form-control", @placeholder = "Contact number two" })
+                                </div>
+                                <div class="checkbox">
+                                    <label class="pull-left checked" for="signing-2"><input type="checkbox" name="signing-2" id="signing-2" onchange="chkTermsChanged()">By signing up for an account you agree to our Terms and Conditions</label>
+                                </div><!-- checkbox -->
+                               
+                                <button type="submit" class="btn" id="btnRegCoy">Create Account</button>
+                           }
+                        </div>
+                    </div>
+                </div>
+            </div><!-- user-login -->
+        </div><!-- row -->
+    </div><!-- container -->
+</section><!-- signup-page -->
+
+
+<script type="text/javascript">
+    function chkTermsChanged() {
+        if (document.getElementById("signing").checked) {
+            document.getElementById("btnRegUsr").disabled = false
+        }
+        else {
+            document.getElementById("btnRegUsr").disabled = true
+        } 
+        if (document.getElementById("signing-2").checked) {
+            document.getElementById("btnRegCoy").disabled = false
+        }
+        else {
+            document.getElementById("btnRegCoy").disabled = true
+        }
+    }
+</script>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

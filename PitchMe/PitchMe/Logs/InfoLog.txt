@@ -1,0 +1,356 @@
+Info logs
+5/29/2017 12:00:00 AM 09:22:30.5415034 Info: invalid PostJobViewModel
+5/29/2017 12:00:00 AM 09:26:44.3531370 Info: invalid PostJobViewModeljob catId=
+5/29/2017 12:00:00 AM 09:32:38.2347133 Info: invalid PostJobViewModeljob catId=
+5/29/2017 12:00:00 AM 09:33:39.9070741 Info: invalid PostJobViewModeljob catId=
+5/29/2017 12:00:00 AM 09:34:48.1610468 Info: invalid PostJobViewModeljob catId=
+5/29/2017 12:00:00 AM 09:35:41.9699782 Info: invalid PostJobViewModeljob catId=
+5/29/2017 12:00:00 AM 09:39:50.2788688 Info: invalid PostJobViewModel::: {"Title":null,"Description":"nothing to describe","Location":null,"State":null,"Country":null,"RequiredSkills":"dgrgw","Responsibilities":"resp","YearsOfExperience":0,"ApplicationDeadline":"2016-02-02T00:00:00","JobType":0,"SalaryRange":0}
+5/29/2017 12:00:00 AM 15:03:53.6288953 Info: invalid PostJobViewModel::: {"Title":null,"Description":"fgdsg","Location":null,"State":null,"Country":null,"RequiredSkills":"k,m","Responsibilities":" m m","YearsOfExperience":0,"ApplicationDeadline":"0001-01-01T00:00:00","JobType":0,"SalaryRange":0}
+5/29/2017 12:00:00 AM 22:04:46.0046604 Info: Job::: {}
+6/8/2017 12:00:00 AM 06:26:21.5161815 Info: Resume exists
+6/8/2017 12:00:00 AM 06:26:47.6883980 Info: Resume exists
+6/8/2017 12:00:00 AM 06:30:41.4520741 Info: Resume exists
+6/8/2017 12:00:00 AM 08:16:36.9595803 Info: Resume exists
+6/8/2017 8:26:48 AM Info: Resume exists
+6/8/2017 8:26:48 AM Info: Edubg is null
+6/8/2017 8:37:27 AM Info: Resume exists
+6/8/2017 8:37:27 AM Info: Edubg is null
+6/8/2017 8:37:27 AM Info: got ids
+6/8/2017 8:37:27 AM Info: cleared from resume
+6/8/2017 8:48:03 AM Info: Resume exists
+6/8/2017 8:48:03 AM Info: Edubg is null
+6/8/2017 8:48:03 AM Info: got ids
+6/8/2017 8:48:03 AM Info: cleared from resume
+6/8/2017 8:48:03 AM Info: no ofedus = 1
+6/8/2017 8:48:03 AM Info: getting 1st edu
+6/8/2017 8:48:04 AM Info: removing it
+6/8/2017 8:48:04 AM Info: removed
+6/8/2017 8:48:04 AM Info: try removing from range
+6/8/2017 9:09:53 AM Info: Resume exists
+6/8/2017 9:09:53 AM Info: Edubg is null
+6/8/2017 9:09:53 AM Info: cleared from resume
+6/8/2017 9:19:37 AM Info: Resume exists
+6/8/2017 9:25:50 AM Info: Edubg is null
+6/8/2017 9:26:30 AM Info: cleared from resume
+6/8/2017 9:28:02 AM Info: Resume exists
+6/8/2017 9:28:24 AM Info: Edubg is null
+6/8/2017 9:29:51 AM Info: cleared from resume
+6/8/2017 9:51:32 AM Info: Resume exists
+6/8/2017 9:51:54 AM Info: after null check
+6/8/2017 9:52:13 AM Info: after updates
+6/8/2017 9:52:16 AM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"no info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_ad58b387-9f06-4f86-be3a-3f538f86bd81.PNG","CareerObjective":"Anything","SkillsAndQualifications":null,"FatherName":null,"MotherName":null,"DateOfBirth":"2017-06-08T09:50:02.6273201+01:00","PlaceOfBirth":null,"Nationality":null,"Address":null,"Declaration":null,"Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 9:52:25 AM Info: Before saving
+6/8/2017 9:52:29 AM Info: after saving
+6/8/2017 9:54:31 AM Info: Resume exists
+6/8/2017 9:54:34 AM Info: after null check
+6/8/2017 9:54:34 AM Info: after updates
+6/8/2017 9:54:34 AM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"no info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_6ca3fbd0-7845-4155-86b9-e09e51ebb129.PNG","CareerObjective":"Anything","SkillsAndQualifications":null,"FatherName":null,"MotherName":null,"DateOfBirth":"2017-06-08T09:53:57.579174+01:00","PlaceOfBirth":null,"Nationality":null,"Address":null,"Declaration":null,"Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 9:54:35 AM Info: Before saving
+6/8/2017 9:54:35 AM Info: after saving
+6/8/2017 10:41:34 AM Info: Resume exists
+6/8/2017 10:42:19 AM Info: after null check
+6/8/2017 10:42:19 AM Info: after updates
+6/8/2017 10:42:20 AM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"ghfjfj","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Reducing Balance_f3e9cabc-d0c8-41c6-a09d-eda61bdc4410.PNG","CareerObjective":null,"SkillsAndQualifications":"kk","FatherName":null,"MotherName":null,"DateOfBirth":"2017-06-08T10:39:50.088588+01:00","PlaceOfBirth":null,"Nationality":null,"Address":null,"Declaration":"dec","Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 10:42:20 AM Info: Before saving
+6/8/2017 10:42:24 AM Info: after saving
+6/8/2017 10:42:24 AM Info: Resume exists
+6/8/2017 10:42:31 AM Info: after null check
+6/8/2017 10:42:31 AM Info: after updates
+6/8/2017 10:42:31 AM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"ghfjfj","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Reducing Balance_bc07c8e5-14c3-4bfc-a345-8ed01bdef2b1.PNG","CareerObjective":null,"SkillsAndQualifications":"kk","FatherName":null,"MotherName":null,"DateOfBirth":"2017-06-08T10:41:05.2712483+01:00","PlaceOfBirth":null,"Nationality":null,"Address":null,"Declaration":"dec","Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 10:42:31 AM Info: Before saving
+6/8/2017 10:42:31 AM Info: Resume exists
+6/8/2017 10:42:34 AM Info: after null check
+6/8/2017 10:42:34 AM Info: after updates
+6/8/2017 10:42:34 AM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"ghfjfj","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_e0c9f3d7-866a-4dff-8c44-5c99896ba3ea.PNG","CareerObjective":null,"SkillsAndQualifications":"kk","FatherName":null,"MotherName":null,"DateOfBirth":"2017-06-08T10:41:34.4723982+01:00","PlaceOfBirth":null,"Nationality":null,"Address":null,"Declaration":"dec","Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 10:42:34 AM Info: Before saving
+6/8/2017 10:42:34 AM Info: after saving
+6/8/2017 10:42:34 AM Info: after saving
+6/8/2017 11:20:49 AM Info: Resume exists
+6/8/2017 11:20:49 AM Info: after null check
+6/8/2017 11:20:49 AM Info: after updates
+6/8/2017 11:20:49 AM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"ghfjfj","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_2f121702-a4dc-4276-9525-971d3fc7efb0.PNG","CareerObjective":null,"SkillsAndQualifications":null,"FatherName":null,"MotherName":null,"DateOfBirth":"2017-06-08T11:20:48.8445968+01:00","PlaceOfBirth":null,"Nationality":null,"Address":null,"Declaration":null,"Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 11:20:49 AM Info: Before saving
+6/8/2017 11:20:51 AM Info: after saving
+6/8/2017 11:27:49 AM Info: Resume exists
+6/8/2017 11:27:49 AM Info: after null check
+6/8/2017 11:27:49 AM Info: after updates
+6/8/2017 11:27:50 AM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"ghfjfj","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_5fc869c6-4936-48ae-b64d-aac08544cafe.PNG","CareerObjective":null,"SkillsAndQualifications":null,"FatherName":null,"MotherName":null,"DateOfBirth":"2017-06-08T11:27:44.6116294+01:00","PlaceOfBirth":null,"Nationality":null,"Address":null,"Declaration":null,"Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 11:27:50 AM Info: Before saving
+6/8/2017 11:27:50 AM Info: after saving
+6/8/2017 11:34:03 AM Info: Resume exists
+6/8/2017 11:34:03 AM Info: after null check
+6/8/2017 11:34:03 AM Info: after updates
+6/8/2017 11:34:05 AM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_411eb87d-ea44-4077-8d68-8eafa8f7996d.PNG","CareerObjective":"obj","SkillsAndQualifications":null,"FatherName":null,"MotherName":null,"DateOfBirth":"2017-06-08T11:33:48.0740013+01:00","PlaceOfBirth":null,"Nationality":null,"Address":"Yaba Oyingbo","Declaration":null,"Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 11:34:05 AM Info: Before saving
+6/8/2017 11:34:07 AM Info: after saving
+6/8/2017 11:59:52 AM Info: Resume exists
+6/8/2017 11:59:52 AM Info: after null check
+6/8/2017 11:59:52 AM Info: after updates
+6/8/2017 11:59:52 AM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_4263382a-844b-47ef-b6f1-ff8f75ff40b4.PNG","CareerObjective":"obj","SkillsAndQualifications":null,"FatherName":null,"MotherName":null,"DateOfBirth":"2017-06-19T11:33:48","PlaceOfBirth":"Boorr","Nationality":null,"Address":"Yaba Oyingbo","Declaration":null,"Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 11:59:52 AM Info: Before saving
+6/8/2017 11:59:52 AM Info: after saving
+6/8/2017 12:13:51 PM Info: Resume exists
+6/8/2017 12:13:51 PM Info: after null check
+6/8/2017 12:13:51 PM Info: after updates
+6/8/2017 12:13:51 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Reducing Balance_19e177db-482f-4a27-87b0-14daa9746502.PNG","CareerObjective":"obj","SkillsAndQualifications":null,"FatherName":null,"MotherName":null,"DateOfBirth":"2017-06-08T12:13:51.54521+01:00","PlaceOfBirth":"Boorr","Nationality":null,"Address":"Yaba Oyingbo","Declaration":null,"Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 12:13:51 PM Info: Before saving
+6/8/2017 12:13:51 PM Info: after saving
+6/8/2017 12:21:26 PM Info: Resume exists
+6/8/2017 12:21:26 PM Info: after null check
+6/8/2017 12:21:26 PM Info: after updates
+6/8/2017 12:21:26 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"invalid file","CareerObjective":"obj","SkillsAndQualifications":null,"FatherName":null,"MotherName":null,"DateOfBirth":"2017-06-08T12:21:25.6456317+01:00","PlaceOfBirth":"Boorr","Nationality":null,"Address":"Yaba Oyingbo","Declaration":null,"Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 12:21:26 PM Info: Before saving
+6/8/2017 12:21:26 PM Info: after saving
+6/8/2017 12:28:39 PM Info: Resume exists
+6/8/2017 12:28:39 PM Info: after null check
+6/8/2017 12:28:39 PM Info: after updates
+6/8/2017 12:28:40 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_d1cce2a6-ed3d-4208-abf2-57575b131c75.PNG","CareerObjective":"obj","SkillsAndQualifications":null,"FatherName":null,"MotherName":null,"DateOfBirth":"2017-10-10T00:00:00","PlaceOfBirth":"Boorr","Nationality":null,"Address":"Yaba Oyingbo","Declaration":null,"Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 12:28:40 PM Info: Before saving
+6/8/2017 12:28:41 PM Info: after saving
+6/8/2017 12:33:45 PM Info: Resume exists
+6/8/2017 12:33:45 PM Info: after null check
+6/8/2017 12:33:45 PM Info: after updates
+6/8/2017 12:33:45 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"invalid file","CareerObjective":"obj","SkillsAndQualifications":null,"FatherName":null,"MotherName":null,"DateOfBirth":"2017-10-10T00:00:00","PlaceOfBirth":"Boorr","Nationality":null,"Address":"Yaba Oyingbo","Declaration":null,"Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 12:33:45 PM Info: Before saving
+6/8/2017 12:33:45 PM Info: after saving
+6/8/2017 12:34:20 PM Info: Resume exists
+6/8/2017 12:34:20 PM Info: after null check
+6/8/2017 12:34:20 PM Info: after updates
+6/8/2017 12:34:20 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"invalid file","CareerObjective":"obj","SkillsAndQualifications":null,"FatherName":null,"MotherName":null,"DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Boorr","Nationality":null,"Address":"Yaba Oyingbo","Declaration":null,"Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 12:34:20 PM Info: Before saving
+6/8/2017 12:34:20 PM Info: after saving
+6/8/2017 2:02:31 PM Info: Resume exists
+6/8/2017 2:02:31 PM Info: after null check
+6/8/2017 2:02:31 PM Info: after updates
+6/8/2017 2:02:32 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Reducing Balance_3fee47d0-39e9-4654-9a75-7d7d7ecbb902.PNG","CareerObjective":"obj","SkillsAndQualifications":null,"FatherName":null,"MotherName":null,"DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Boorr","Nationality":null,"Address":"Yaba Oyingbo","Declaration":null,"Gender":null,"WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 2:02:33 PM Info: Before saving
+6/8/2017 2:02:34 PM Info: after saving
+6/8/2017 2:04:38 PM Info: Resume exists
+6/8/2017 2:04:38 PM Info: after null check
+6/8/2017 2:04:38 PM Info: after updates
+6/8/2017 2:04:38 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Reducing Balance_5dbf6fe0-cec1-4c6a-b0a1-4a8546129d1b.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"Nigerian","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 2:04:38 PM Info: Before saving
+6/8/2017 2:04:38 PM Info: after saving
+6/8/2017 2:19:20 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Reducing Balance_e8939e06-5b94-48f5-8d46-2f98a143e2d7.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"Nigerian","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{},{}]}
+6/8/2017 2:19:31 PM Info: Resume exists
+6/8/2017 2:19:31 PM Info: Resume'seduBkgrnd is null
+6/8/2017 2:19:32 PM Info: adding range
+6/8/2017 2:19:32 PM Info: wupdating
+6/8/2017 2:19:32 PM Info: updated resume
+6/8/2017 2:19:32 PM Info: after null check
+6/8/2017 2:19:32 PM Info: after updates
+6/8/2017 2:19:32 PM Info: Before saving
+6/8/2017 2:19:33 PM Info: after saving
+6/8/2017 2:53:20 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_46206663-e1d9-4e37-8d50-3473eb389bb0.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 2:53:21 PM Info: Resume exists
+6/8/2017 2:53:21 PM Info: Resume'seduBkgrnd is null
+6/8/2017 2:53:21 PM Info: adding range
+6/8/2017 2:53:21 PM Info: wupdating
+6/8/2017 2:53:21 PM Info: updated resume
+6/8/2017 2:53:21 PM Info: after null check
+6/8/2017 2:53:21 PM Info: after updates
+6/8/2017 2:53:21 PM Info: Before saving
+6/8/2017 2:53:22 PM Info: after saving
+6/8/2017 2:54:12 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_4e92f4e2-78ac-49d9-8069-ccf476d968a1.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 2:54:13 PM Info: Resume exists
+6/8/2017 2:54:13 PM Info: Resume'seduBkgrnd is null
+6/8/2017 2:54:13 PM Info: adding range
+6/8/2017 2:54:13 PM Info: wupdating
+6/8/2017 2:54:13 PM Info: updated resume
+6/8/2017 2:54:13 PM Info: after null check
+6/8/2017 2:54:13 PM Info: after updates
+6/8/2017 2:54:13 PM Info: Before saving
+6/8/2017 2:54:13 PM Info: after saving
+6/8/2017 3:18:53 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_07563610-2a8e-4c41-b367-b672f434ddbf.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 3:18:57 PM Info: Resume exists
+6/8/2017 3:18:57 PM Info: Resume'seduBkgrnd is null
+6/8/2017 3:18:57 PM Info: adding range
+6/8/2017 3:18:57 PM Info: wupdating
+6/8/2017 3:33:47 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_aa15ff31-68e3-4187-adba-99a4afb2d1cd.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 3:33:47 PM Info: Resume exists
+6/8/2017 3:33:47 PM Info: Resume'seduBkgrnd is null
+6/8/2017 3:33:47 PM Info: adding range
+6/8/2017 3:33:48 PM Info: wupdating
+6/8/2017 3:33:48 PM Info: updated resume
+6/8/2017 3:33:48 PM Info: after null check
+6/8/2017 3:33:48 PM Info: after updates
+6/8/2017 3:33:48 PM Info: Before saving
+6/8/2017 3:33:50 PM Info: after saving
+6/8/2017 3:55:36 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_fad78a6f-0c5c-4b44-a871-48fff189b45e.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 3:55:36 PM Info: Resume exists
+6/8/2017 3:55:36 PM Info: Resume'seduBkgrnd is null
+6/8/2017 3:55:36 PM Info: adding range
+6/8/2017 3:55:36 PM Info: wupdating
+6/8/2017 3:55:36 PM Info: updated resume
+6/8/2017 3:55:36 PM Info: after null check
+6/8/2017 3:55:37 PM Info: after updates
+6/8/2017 3:55:37 PM Info: Before saving
+6/8/2017 3:55:39 PM Info: after saving
+6/8/2017 4:05:20 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_ec0e1463-6bee-481a-b0cf-4fcc053fdcd4.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 4:05:20 PM Info: Resume exists
+6/8/2017 4:05:20 PM Info: Resume'seduBkgrnd is null
+6/8/2017 4:05:20 PM Info: adding range
+6/8/2017 4:05:20 PM Info: wupdating
+6/8/2017 4:05:20 PM Info: updated resume
+6/8/2017 4:05:20 PM Info: after null check
+6/8/2017 4:05:20 PM Info: after updates
+6/8/2017 4:05:20 PM Info: Before saving
+6/8/2017 4:05:21 PM Info: after saving
+6/8/2017 4:12:05 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_7a3f9dd1-1d41-4d08-8aa3-8797d82b284e.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 4:12:22 PM Info: Resume exists
+6/8/2017 4:12:59 PM Info: Resume'seduBkgrnd is null
+6/8/2017 4:13:12 PM Info: adding range
+6/8/2017 4:14:22 PM Info: wupdating
+6/8/2017 4:14:22 PM Info: updated resume
+6/8/2017 4:14:22 PM Info: after null check
+6/8/2017 4:14:22 PM Info: after updates
+6/8/2017 4:14:22 PM Info: Before saving
+6/8/2017 4:14:22 PM Info: after saving
+6/8/2017 4:19:34 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_5523971a-da85-4768-8cf1-7635eed7a8af.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 4:19:34 PM Info: Resume exists
+6/8/2017 4:19:34 PM Info: Resume'seduBkgrnd is null
+6/8/2017 4:19:34 PM Info: adding range
+6/8/2017 4:19:35 PM Info: wupdating
+6/8/2017 4:19:35 PM Info: updated resume
+6/8/2017 4:19:35 PM Info: after null check
+6/8/2017 4:19:35 PM Info: after updates
+6/8/2017 4:19:35 PM Info: Before saving
+6/8/2017 4:19:35 PM Info: after saving
+6/8/2017 4:33:32 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_25b4ff78-7dc8-4b79-a30a-cd4261523f47.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 4:33:32 PM Info: Resume exists
+6/8/2017 4:33:32 PM Info: Resume'seduBkgrnd is null
+6/8/2017 4:33:32 PM Info: adding range
+6/8/2017 4:40:07 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_08431610-a69c-4225-96d6-9a3e3b42a38a.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 4:40:12 PM Info: Resume exists
+6/8/2017 4:40:16 PM Info: Resume'seduBkgrnd is null
+6/8/2017 4:41:14 PM Info: adding range
+6/8/2017 4:47:31 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_6bf05fdc-fa29-4063-98e7-7a01d2582a1a.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 4:47:31 PM Info: Resume exists
+6/8/2017 4:47:31 PM Info: Resume'seduBkgrnd is null
+6/8/2017 4:47:31 PM Info: adding range
+6/8/2017 4:47:32 PM Info: wupdating
+6/8/2017 4:47:32 PM Info: updated resume
+6/8/2017 4:47:32 PM Info: after null check
+6/8/2017 4:47:32 PM Info: after updates
+6/8/2017 4:47:32 PM Info: Before saving
+6/8/2017 4:47:32 PM Info: after saving
+6/8/2017 4:52:30 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"invalid file","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 4:52:37 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"invalid file","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 4:52:47 PM Info: Resume exists
+6/8/2017 4:52:47 PM Info: Resume'seduBkgrnd is null
+6/8/2017 4:52:48 PM Info: adding range
+6/8/2017 4:52:48 PM Info: Resume exists
+6/8/2017 4:52:48 PM Info: Resume'seduBkgrnd is null
+6/8/2017 4:52:48 PM Info: adding range
+6/8/2017 4:52:49 PM Info: wupdating
+6/8/2017 4:52:49 PM Info: updated resume
+6/8/2017 4:52:49 PM Info: after null check
+6/8/2017 4:52:49 PM Info: after updates
+6/8/2017 4:52:49 PM Info: Before saving
+6/8/2017 4:52:49 PM Info: wupdating
+6/8/2017 4:52:49 PM Info: updated resume
+6/8/2017 4:52:49 PM Info: after null check
+6/8/2017 4:52:49 PM Info: after updates
+6/8/2017 4:52:49 PM Info: Before saving
+6/8/2017 4:52:50 PM Info: after saving
+6/8/2017 4:52:50 PM Info: after saving
+6/8/2017 5:13:42 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Reducing Balance_c205fefb-739c-45ca-9594-d7d2c263925e.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 5:13:46 PM Info: Resume exists
+6/8/2017 5:14:01 PM Info: Resume'seduBkgrnd is null
+6/8/2017 5:16:03 PM Info: adding range
+6/8/2017 6:13:40 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_97ff7443-3c84-4da2-8d99-1aadf8ae6822.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/8/2017 6:13:40 PM Info: Resume exists
+6/8/2017 6:13:40 PM Info: Resume'seduBkgrnd is null
+6/8/2017 6:13:40 PM Info: adding range
+6/8/2017 6:13:41 PM Info: wupdating
+6/8/2017 6:13:41 PM Info: updated resume
+6/8/2017 6:13:41 PM Info: after null check
+6/8/2017 6:13:41 PM Info: after updates
+6/8/2017 6:13:41 PM Info: Before saving
+6/8/2017 6:13:41 PM Info: after saving
+6/8/2017 9:38:37 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Fixed Loan_03f65fb9-2133-4891-bf09-b4e162f41945.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{},{}]}
+6/8/2017 9:41:02 PM Info: Resume exists
+6/8/2017 9:41:11 PM Info: Resume'seduBkgrnd is null
+6/8/2017 9:41:39 PM Info: adding range
+6/8/2017 9:42:39 PM Info: wupdating
+6/8/2017 9:42:39 PM Info: updated resume
+6/8/2017 9:42:39 PM Info: after null check
+6/8/2017 9:42:39 PM Info: after updates
+6/8/2017 9:42:39 PM Info: Before saving
+6/8/2017 9:42:40 PM Info: after saving
+6/9/2017 12:25:50 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Reducing Balance_40b4a0a5-32d4-45df-b0d0-847ccdec57c6.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/9/2017 12:25:56 PM Info: Resume exists
+6/9/2017 12:26:00 PM Info: Resume'seduBkgrnd is null
+6/9/2017 12:26:19 PM Info: adding range
+6/9/2017 12:26:53 PM Info: wupdating
+6/9/2017 12:26:56 PM Info: updated resume
+6/9/2017 12:27:12 PM Info: after null check
+6/9/2017 12:27:12 PM Info: after updates
+6/9/2017 12:27:12 PM Info: Before saving
+6/9/2017 12:27:13 PM Info: after saving
+6/9/2017 12:30:12 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"C:\\Users\\Akin\\Documents\\Visual Studio 2015\\Projects\\PitchMe\\PitchMe\\assets\\images\\Reducing Balance_f56ca15d-c2f1-490c-b84d-1069748c3176.PNG","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{}]}
+6/9/2017 12:30:14 PM Info: Resume exists
+6/9/2017 12:30:19 PM Info: Resume'seduBkgrnd is null
+6/9/2017 12:30:23 PM Info: adding range
+6/9/2017 12:30:26 PM Info: wupdating
+6/9/2017 12:30:26 PM Info: updated resume
+6/9/2017 12:30:26 PM Info: after null check
+6/9/2017 12:30:26 PM Info: after updates
+6/9/2017 12:30:27 PM Info: Before saving
+6/9/2017 12:30:27 PM Info: after saving
+6/9/2017 12:49:49 PM Info: The model is: {"FullName":"sodiq","AdditionalInformation":"added info","ProfileImageUri":"invalid file","CareerObjective":"obj","SkillsAndQualifications":"C#\nAsp.net\nElK stack\netc","FatherName":"My dad","MotherName":"My Mom","DateOfBirth":"2018-03-08T00:00:00","PlaceOfBirth":"Naija","Nationality":"My Mom","Address":"Yaba Oyingbo","Declaration":"I declare that all info supplied by me above are true","Gender":"Male","WorkExperiences":[{}],"EducationBackgrounds":[{},{},{},{},{},{}]}
+6/9/2017 12:49:53 PM Info: Resume exists
+6/9/2017 12:50:07 PM Info: Edubg is null
+6/9/2017 12:50:07 PM Info: cleared from resume
+6/9/2017 5:45:44 PM Info: after null check
+6/9/2017 5:45:52 PM Info: after updates
+6/9/2017 5:45:52 PM Info: Before saving
+6/9/2017 5:45:53 PM Info: after saving
+6/9/2017 5:49:26 PM Info: after null check
+6/9/2017 5:49:26 PM Info: after updates
+6/9/2017 5:49:27 PM Info: Before saving
+6/9/2017 5:49:27 PM Info: after saving
+6/9/2017 6:47:46 PM Info: Before saving
+6/9/2017 6:47:47 PM Info: after saving
+6/9/2017 9:51:29 PM Info: Before saving
+6/9/2017 9:51:30 PM Info: after saving
+6/9/2017 10:22:58 PM Info: Before saving
+6/9/2017 10:22:58 PM Info: after saving
+6/9/2017 10:26:47 PM Info: Before saving
+6/9/2017 10:26:47 PM Info: after saving
+6/9/2017 10:45:19 PM Info: Before saving
+6/9/2017 10:45:19 PM Info: after saving
+6/9/2017 10:47:35 PM Info: Before saving
+6/9/2017 10:47:36 PM Info: after saving
+6/9/2017 11:13:44 PM Info: Before saving
+6/9/2017 11:13:46 PM Info: after saving
+6/10/2017 12:59:33 PM Info: Before saving
+6/10/2017 12:59:34 PM Info: after saving
+6/21/2017 10:11:57 AM Info: 6/21/2017 10:11:57 AM, Home Request, Index, http://localhost:64712/, 120
+6/21/2017 10:13:18 AM Info: 6/21/2017 10:13:18 AM, Account Request, Login, http://localhost:64712/Account/Login?ReturnUrl=%2Fjob, 0
+6/21/2017 10:14:53 AM Info: 6/21/2017 10:14:53 AM, Account Request, Login, http://localhost:64712/Account/Login?ReturnUrl=%2Fjob, 15
+6/21/2017 10:15:16 AM Info: 6/21/2017 10:15:16 AM, Job Request, Index, http://localhost:64712/job, 0
+6/21/2017 10:17:56 AM Info: 6/21/2017 10:17:56 AM, Home Request, Index, http://localhost:64712/home, 122
+6/21/2017 10:18:28 AM Info: 6/21/2017 10:18:28 AM, Home Request, contact, http://localhost:64712/home/contact, 122
+6/21/2017 10:18:34 AM Info: 6/21/2017 10:18:34 AM, Home Request, about, http://localhost:64712/home/about, 122
+6/21/2017 10:19:59 AM Info: 6/21/2017 10:19:59 AM, Home Request, Index, http://localhost:64712/home, 123
+6/21/2017 10:20:06 AM Info: 6/21/2017 10:20:06 AM, Profile Request, Index, http://localhost:64712/Profile, 3
+7/30/2017 9:51:22 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":null,"Description":null,"Location":null,"State":null,"Country":null,"MinimumSalary":0.0,"MaximumSalary":0.0,"IsSalaryNegotiable":false,"RequiredSkills":null,"Responsibilities":null,"YearsOfExperience":0,"ApplicationDeadline":"2017-07-30T00:00:00","JobType":0,"ExperienceLevel":0,"SalaryRange":0}
+8/6/2017 4:18:13 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"SW","Description":"jjsjjsj","Location":null,"State":null,"Country":null,"MinimumSalary":1.0,"MaximumSalary":2.0,"IsSalaryNegotiable":false,"RequiredSkills":"ee3r3rr3r","Responsibilities":"wrwdfw","YearsOfExperience":0,"ApplicationDeadline":"2017-08-06T00:00:00","JobType":0,"ExperienceLevel":1,"SalaryRange":0}
+8/6/2017 4:18:42 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"SW","Description":"jjsjjsj","Location":null,"State":"FCT","Country":null,"MinimumSalary":1.0,"MaximumSalary":2.0,"IsSalaryNegotiable":false,"RequiredSkills":"ee3r3rr3r","Responsibilities":"wrwdfw","YearsOfExperience":0,"ApplicationDeadline":"2017-08-06T00:00:00","JobType":0,"ExperienceLevel":1,"SalaryRange":0}
+8/6/2017 4:19:00 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"SW","Description":"jjsjjsj","Location":null,"State":"FCT","Country":null,"MinimumSalary":1.0,"MaximumSalary":2.0,"IsSalaryNegotiable":false,"RequiredSkills":"ee3r3rr3r","Responsibilities":"wrwdfw","YearsOfExperience":0,"ApplicationDeadline":"2017-08-06T00:00:00","JobType":0,"ExperienceLevel":1,"SalaryRange":0}
+8/6/2017 4:20:39 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"SW","Description":"jjsjjsj","Location":null,"State":"FCT","Country":null,"MinimumSalary":1.0,"MaximumSalary":2.0,"IsSalaryNegotiable":false,"RequiredSkills":"ee3r3rr3r","Responsibilities":"wrwdfw","YearsOfExperience":0,"ApplicationDeadline":"2017-08-06T00:00:00","JobType":0,"ExperienceLevel":1,"SalaryRange":0}
+8/6/2017 6:05:05 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"dwdwdd","Description":"sfffef","Location":null,"State":null,"Country":null,"MinimumSalary":22.0,"MaximumSalary":22.0,"IsSalaryNegotiable":false,"RequiredSkills":"ewe2e","Responsibilities":"qeqee","YearsOfExperience":0,"ApplicationDeadline":"2017-08-06T00:00:00","JobType":0,"ExperienceLevel":0,"SalaryRange":0}
+8/6/2017 6:11:00 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"kg","Description":"htrh","Location":null,"State":"Adamawa","Country":null,"MinimumSalary":45.0,"MaximumSalary":5.0,"IsSalaryNegotiable":false,"RequiredSkills":"ghd","Responsibilities":"fbdfnb","YearsOfExperience":0,"ApplicationDeadline":"2017-08-06T00:00:00","JobType":2,"ExperienceLevel":1,"SalaryRange":0}
+8/6/2017 6:17:36 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"dwd","Description":"jkh","Location":null,"State":"Akwa-Ibom","Country":null,"MinimumSalary":2.0,"MaximumSalary":3.0,"IsSalaryNegotiable":false,"RequiredSkills":"dd","Responsibilities":"fe","YearsOfExperience":0,"ApplicationDeadline":"2017-08-06T00:00:00","JobType":2,"ExperienceLevel":0,"SalaryRange":0}
+8/6/2017 6:21:32 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"cad","Description":"dvfd","Location":null,"State":null,"Country":null,"MinimumSalary":3.0,"MaximumSalary":54.0,"IsSalaryNegotiable":false,"RequiredSkills":"ere","Responsibilities":"fe","YearsOfExperience":0,"ApplicationDeadline":"2017-08-06T00:00:00","JobType":0,"ExperienceLevel":0,"SalaryRange":0}
+8/6/2017 6:21:41 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"cad","Description":"dvfd","Location":null,"State":null,"Country":null,"MinimumSalary":3.0,"MaximumSalary":54.0,"IsSalaryNegotiable":false,"RequiredSkills":"ere","Responsibilities":"fe","YearsOfExperience":0,"ApplicationDeadline":"2017-08-06T00:00:00","JobType":2,"ExperienceLevel":0,"SalaryRange":0}
+8/6/2017 6:21:59 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"cad","Description":"dvfd","Location":null,"State":null,"Country":null,"MinimumSalary":3.0,"MaximumSalary":54.0,"IsSalaryNegotiable":false,"RequiredSkills":"ere","Responsibilities":"fe","YearsOfExperience":0,"ApplicationDeadline":"2017-08-06T00:00:00","JobType":0,"ExperienceLevel":1,"SalaryRange":0}
+8/6/2017 6:27:50 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"fef","Description":"df","Location":null,"State":null,"Country":null,"MinimumSalary":33.0,"MaximumSalary":24.0,"IsSalaryNegotiable":false,"RequiredSkills":"ee","Responsibilities":"ee","YearsOfExperience":0,"ApplicationDeadline":"2017-08-06T00:00:00","JobType":1,"ExperienceLevel":0,"SalaryRange":0}
+8/23/2017 6:22:13 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"Software Developer","Description":"Cloud platform development","Location":null,"State":"Lagos","Country":null,"MinimumSalary":100000.0,"MaximumSalary":430000.0,"IsSalaryNegotiable":true,"RequiredSkills":"java","Responsibilities":"All","YearsOfExperience":0,"ApplicationDeadline":"2017-09-12T00:00:00","JobType":1,"ExperienceLevel":4,"SalaryRange":0}
+8/23/2017 6:23:28 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"Software Developer","Description":"Cloud platform development","Location":null,"State":"Lagos","Country":null,"MinimumSalary":100000.0,"MaximumSalary":430000.0,"IsSalaryNegotiable":true,"RequiredSkills":"java","Responsibilities":"Building the cloud APIs","YearsOfExperience":0,"ApplicationDeadline":"2017-08-23T00:00:00","JobType":1,"ExperienceLevel":4,"SalaryRange":0}
+8/23/2017 6:31:05 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"Software Developer","Description":"A financial Tech company","Location":null,"State":"Adamawa","Country":null,"MinimumSalary":100000.0,"MaximumSalary":430000.0,"IsSalaryNegotiable":true,"RequiredSkills":".NET technologies","Responsibilities":"Cloud API development","YearsOfExperience":0,"ApplicationDeadline":"2017-09-23T00:00:00","JobType":0,"ExperienceLevel":5,"SalaryRange":0}
+8/23/2017 6:35:17 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"Software Developer","Description":"A financial Tech company","Location":null,"State":"Adamawa","Country":null,"MinimumSalary":100000.0,"MaximumSalary":430000.0,"IsSalaryNegotiable":true,"RequiredSkills":".NET technologies","Responsibilities":"Cloud API development","YearsOfExperience":0,"ApplicationDeadline":"2017-08-23T00:00:00","JobType":0,"ExperienceLevel":5,"SalaryRange":0}
+8/23/2017 6:37:43 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"Software Developer","Description":"A financial Tech company","Location":null,"State":"Adamawa","Country":null,"MinimumSalary":100000.0,"MaximumSalary":430000.0,"IsSalaryNegotiable":true,"RequiredSkills":".NET technologies","Responsibilities":"Cloud API development","YearsOfExperience":0,"ApplicationDeadline":"2017-08-23T00:00:00","JobType":0,"ExperienceLevel":5,"SalaryRange":0}
+8/24/2017 10:56:32 PM Info: invalid PostJobViewModel::: {"Id":0,"Title":"Learning Facilitator","Description":"Facilitates learning","Location":null,"State":"Adamawa","Country":null,"MinimumSalary":120000.0,"MaximumSalary":234000.0,"IsSalaryNegotiable":false,"RequiredSkills":"Teaching","Responsibilities":"Teaching of students","YearsOfExperience":0,"ApplicationDeadline":"2017-09-21T00:00:00","JobType":0,"ExperienceLevel":4,"SalaryRange":0}

@@ -1,0 +1,165 @@
+﻿<error errorId="f00718e3-a6c2-4dfb-b588-14627e27cc8c" host="OPARA" type="System.InvalidOperationException" message="The view 'Error' or its master was not found or no view engine supports the searched locations. The following locations were searched:&#xD;&#xA;~/Views/Job/Error.aspx&#xD;&#xA;~/Views/Job/Error.ascx&#xD;&#xA;~/Views/Shared/Error.aspx&#xD;&#xA;~/Views/Shared/Error.ascx&#xD;&#xA;~/Views/Job/Error.cshtml&#xD;&#xA;~/Views/Job/Error.vbhtml&#xD;&#xA;~/Views/Shared/Error.cshtml&#xD;&#xA;~/Views/Shared/Error.vbhtml" source="System.Web.Mvc" detail="System.InvalidOperationException: The view 'Error' or its master was not found or no view engine supports the searched locations. The following locations were searched:&#xD;&#xA;~/Views/Job/Error.aspx&#xD;&#xA;~/Views/Job/Error.ascx&#xD;&#xA;~/Views/Shared/Error.aspx&#xD;&#xA;~/Views/Shared/Error.ascx&#xD;&#xA;~/Views/Job/Error.cshtml&#xD;&#xA;~/Views/Job/Error.vbhtml&#xD;&#xA;~/Views/Shared/Error.cshtml&#xD;&#xA;~/Views/Shared/Error.vbhtml&#xD;&#xA;   at System.Web.Mvc.ViewResult.FindView(ControllerContext context)&#xD;&#xA;   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)&#xD;&#xA;   at System.Web.Mvc.Async.AsyncControllerActionInvoker.&lt;&gt;c__DisplayClass21.&lt;BeginInvokeAction&gt;b__1e(IAsyncResult asyncResult)&#xD;&#xA;   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)&#xD;&#xA;   at System.Web.Mvc.Controller.&lt;BeginExecuteCore&gt;b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)&#xD;&#xA;   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)&#xD;&#xA;   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)&#xD;&#xA;   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)&#xD;&#xA;   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)&#xD;&#xA;   at System.Web.Mvc.MvcHandler.&lt;BeginProcessRequest&gt;b__5(IAsyncResult asyncResult, ProcessRequestState innerState)&#xD;&#xA;   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)&#xD;&#xA;   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)&#xD;&#xA;   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()&#xD;&#xA;   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean&amp; completedSynchronously)" user="Max@gmail.com" time="2017-08-05T14:14:53.8796145Z">
+  <serverVariables>
+    <item name="ALL_HTTP">
+      <value string="HTTP_CONNECTION:keep-alive&#xD;&#xA;HTTP_ACCEPT:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8&#xD;&#xA;HTTP_ACCEPT_ENCODING:gzip, deflate, br&#xD;&#xA;HTTP_ACCEPT_LANGUAGE:en-US,en;q=0.8&#xD;&#xA;HTTP_COOKIE:__RequestVerificationToken_L1BpdGNoTWU1=LWOz_54njq8-09lHYpCD5utv2KUYLQ9j40AQm1O3f2yQhW2IxO2DD1urDiRksZFcVneBcbyPX0emvXkdR3vlYtkparmqKR2J6z3LsXo6cCk1; .AspNet.ApplicationCookie=GyMeBB0nJtPyd_m7sS7Dv-7XUPurdGeOmud0sHoYnoYPY_Bmk1qGFY5oG8eoRjHMeRCqvTdlIe_7EN3US3Mbujvtf_FL_k-gHy8gUGQ36dkm9Kh5x3gnV36bjUgFOVd8HSn3ACaIG9LuOXMIwAeJLS7BbjIduvT-fLh4sDa7X0JVv-cawCWzKJjF4iAIwN6D68ZoQTOWAijLJmGmId3g455w-Z3fUU-Bo1mYJdp6F6_T3MuNev1Uh8SN98gVeLFzB60GibjTX8DwpVmtlbOg9S8YdCtpv3zEq7nalZC7jOmbLRWVX5_F3A177SHyypQWT3-vbOI_Nx4LzWLny92fd_PWy8BKAJsQiyDoTmAmKR7P9gzk-7P2RcJQ5aWFjgw4FjD-t6W778n8CryAReH-OZwtb8gMvCOlTxddhwm6XpRFZkPx5rM2ysdBoHoDu8x01Yv2f8pjzlvgYRaoGhnzCN60qOEDYbWuIHerUXpyVJo&#xD;&#xA;HTTP_HOST:localhost&#xD;&#xA;HTTP_USER_AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36&#xD;&#xA;HTTP_UPGRADE_INSECURE_REQUESTS:1&#xD;&#xA;" />
+    </item>
+    <item name="ALL_RAW">
+      <value string="Connection: keep-alive&#xD;&#xA;Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8&#xD;&#xA;Accept-Encoding: gzip, deflate, br&#xD;&#xA;Accept-Language: en-US,en;q=0.8&#xD;&#xA;Cookie: __RequestVerificationToken_L1BpdGNoTWU1=LWOz_54njq8-09lHYpCD5utv2KUYLQ9j40AQm1O3f2yQhW2IxO2DD1urDiRksZFcVneBcbyPX0emvXkdR3vlYtkparmqKR2J6z3LsXo6cCk1; .AspNet.ApplicationCookie=GyMeBB0nJtPyd_m7sS7Dv-7XUPurdGeOmud0sHoYnoYPY_Bmk1qGFY5oG8eoRjHMeRCqvTdlIe_7EN3US3Mbujvtf_FL_k-gHy8gUGQ36dkm9Kh5x3gnV36bjUgFOVd8HSn3ACaIG9LuOXMIwAeJLS7BbjIduvT-fLh4sDa7X0JVv-cawCWzKJjF4iAIwN6D68ZoQTOWAijLJmGmId3g455w-Z3fUU-Bo1mYJdp6F6_T3MuNev1Uh8SN98gVeLFzB60GibjTX8DwpVmtlbOg9S8YdCtpv3zEq7nalZC7jOmbLRWVX5_F3A177SHyypQWT3-vbOI_Nx4LzWLny92fd_PWy8BKAJsQiyDoTmAmKR7P9gzk-7P2RcJQ5aWFjgw4FjD-t6W778n8CryAReH-OZwtb8gMvCOlTxddhwm6XpRFZkPx5rM2ysdBoHoDu8x01Yv2f8pjzlvgYRaoGhnzCN60qOEDYbWuIHerUXpyVJo&#xD;&#xA;Host: localhost&#xD;&#xA;User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36&#xD;&#xA;Upgrade-Insecure-Requests: 1&#xD;&#xA;" />
+    </item>
+    <item name="APPL_MD_PATH">
+      <value string="/LM/W3SVC/1/ROOT/PitchMe" />
+    </item>
+    <item name="APPL_PHYSICAL_PATH">
+      <value string="G:\Coy\Projects\Apps\PitchMe_v0\PitchMe\PitchMe\" />
+    </item>
+    <item name="AUTH_TYPE">
+      <value string="ApplicationCookie" />
+    </item>
+    <item name="AUTH_USER">
+      <value string="Max@gmail.com" />
+    </item>
+    <item name="AUTH_PASSWORD">
+      <value string="" />
+    </item>
+    <item name="LOGON_USER">
+      <value string="Max@gmail.com" />
+    </item>
+    <item name="REMOTE_USER">
+      <value string="Max@gmail.com" />
+    </item>
+    <item name="CERT_COOKIE">
+      <value string="" />
+    </item>
+    <item name="CERT_FLAGS">
+      <value string="" />
+    </item>
+    <item name="CERT_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="CERT_SERIALNUMBER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="CERT_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CERT_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="CONTENT_LENGTH">
+      <value string="0" />
+    </item>
+    <item name="CONTENT_TYPE">
+      <value string="" />
+    </item>
+    <item name="GATEWAY_INTERFACE">
+      <value string="CGI/1.1" />
+    </item>
+    <item name="HTTPS">
+      <value string="off" />
+    </item>
+    <item name="HTTPS_KEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SECRETKEYSIZE">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_ISSUER">
+      <value string="" />
+    </item>
+    <item name="HTTPS_SERVER_SUBJECT">
+      <value string="" />
+    </item>
+    <item name="INSTANCE_ID">
+      <value string="1" />
+    </item>
+    <item name="INSTANCE_META_PATH">
+      <value string="/LM/W3SVC/1" />
+    </item>
+    <item name="LOCAL_ADDR">
+      <value string="::1" />
+    </item>
+    <item name="PATH_INFO">
+      <value string="/PitchMe/Job/details/" />
+    </item>
+    <item name="PATH_TRANSLATED">
+      <value string="G:\Coy\Projects\Apps\PitchMe_v0\PitchMe\PitchMe\Job\details\" />
+    </item>
+    <item name="QUERY_STRING">
+      <value string="" />
+    </item>
+    <item name="REMOTE_ADDR">
+      <value string="::1" />
+    </item>
+    <item name="REMOTE_HOST">
+      <value string="::1" />
+    </item>
+    <item name="REMOTE_PORT">
+      <value string="4964" />
+    </item>
+    <item name="REQUEST_METHOD">
+      <value string="GET" />
+    </item>
+    <item name="SCRIPT_NAME">
+      <value string="/PitchMe/Job/details/" />
+    </item>
+    <item name="SERVER_NAME">
+      <value string="localhost" />
+    </item>
+    <item name="SERVER_PORT">
+      <value string="80" />
+    </item>
+    <item name="SERVER_PORT_SECURE">
+      <value string="0" />
+    </item>
+    <item name="SERVER_PROTOCOL">
+      <value string="HTTP/1.1" />
+    </item>
+    <item name="SERVER_SOFTWARE">
+      <value string="Microsoft-IIS/10.0" />
+    </item>
+    <item name="URL">
+      <value string="/PitchMe/Job/details/" />
+    </item>
+    <item name="HTTP_CONNECTION">
+      <value string="keep-alive" />
+    </item>
+    <item name="HTTP_ACCEPT">
+      <value string="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8" />
+    </item>
+    <item name="HTTP_ACCEPT_ENCODING">
+      <value string="gzip, deflate, br" />
+    </item>
+    <item name="HTTP_ACCEPT_LANGUAGE">
+      <value string="en-US,en;q=0.8" />
+    </item>
+    <item name="HTTP_COOKIE">
+      <value string="__RequestVerificationToken_L1BpdGNoTWU1=LWOz_54njq8-09lHYpCD5utv2KUYLQ9j40AQm1O3f2yQhW2IxO2DD1urDiRksZFcVneBcbyPX0emvXkdR3vlYtkparmqKR2J6z3LsXo6cCk1; .AspNet.ApplicationCookie=GyMeBB0nJtPyd_m7sS7Dv-7XUPurdGeOmud0sHoYnoYPY_Bmk1qGFY5oG8eoRjHMeRCqvTdlIe_7EN3US3Mbujvtf_FL_k-gHy8gUGQ36dkm9Kh5x3gnV36bjUgFOVd8HSn3ACaIG9LuOXMIwAeJLS7BbjIduvT-fLh4sDa7X0JVv-cawCWzKJjF4iAIwN6D68ZoQTOWAijLJmGmId3g455w-Z3fUU-Bo1mYJdp6F6_T3MuNev1Uh8SN98gVeLFzB60GibjTX8DwpVmtlbOg9S8YdCtpv3zEq7nalZC7jOmbLRWVX5_F3A177SHyypQWT3-vbOI_Nx4LzWLny92fd_PWy8BKAJsQiyDoTmAmKR7P9gzk-7P2RcJQ5aWFjgw4FjD-t6W778n8CryAReH-OZwtb8gMvCOlTxddhwm6XpRFZkPx5rM2ysdBoHoDu8x01Yv2f8pjzlvgYRaoGhnzCN60qOEDYbWuIHerUXpyVJo" />
+    </item>
+    <item name="HTTP_HOST">
+      <value string="localhost" />
+    </item>
+    <item name="HTTP_USER_AGENT">
+      <value string="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" />
+    </item>
+    <item name="HTTP_UPGRADE_INSECURE_REQUESTS">
+      <value string="1" />
+    </item>
+  </serverVariables>
+  <cookies>
+    <item name="__RequestVerificationToken_L1BpdGNoTWU1">
+      <value string="LWOz_54njq8-09lHYpCD5utv2KUYLQ9j40AQm1O3f2yQhW2IxO2DD1urDiRksZFcVneBcbyPX0emvXkdR3vlYtkparmqKR2J6z3LsXo6cCk1" />
+    </item>
+    <item name=".AspNet.ApplicationCookie">
+      <value string="GyMeBB0nJtPyd_m7sS7Dv-7XUPurdGeOmud0sHoYnoYPY_Bmk1qGFY5oG8eoRjHMeRCqvTdlIe_7EN3US3Mbujvtf_FL_k-gHy8gUGQ36dkm9Kh5x3gnV36bjUgFOVd8HSn3ACaIG9LuOXMIwAeJLS7BbjIduvT-fLh4sDa7X0JVv-cawCWzKJjF4iAIwN6D68ZoQTOWAijLJmGmId3g455w-Z3fUU-Bo1mYJdp6F6_T3MuNev1Uh8SN98gVeLFzB60GibjTX8DwpVmtlbOg9S8YdCtpv3zEq7nalZC7jOmbLRWVX5_F3A177SHyypQWT3-vbOI_Nx4LzWLny92fd_PWy8BKAJsQiyDoTmAmKR7P9gzk-7P2RcJQ5aWFjgw4FjD-t6W778n8CryAReH-OZwtb8gMvCOlTxddhwm6XpRFZkPx5rM2ysdBoHoDu8x01Yv2f8pjzlvgYRaoGhnzCN60qOEDYbWuIHerUXpyVJo" />
+    </item>
+  </cookies>
+</error>

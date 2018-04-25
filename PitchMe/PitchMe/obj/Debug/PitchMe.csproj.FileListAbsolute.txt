@@ -1,0 +1,528 @@
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\csc.exe
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\System.Collections.Immutable.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\vbc.exe
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\VBCSCompiler.exe
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\VBCSCompiler.exe.config
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.dll.config
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.pdb
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Antlr3.Runtime.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\EntityFramework.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\EntityFramework.SqlServer.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Google.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Web.Infrastructure.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Newtonsoft.Json.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Owin.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Helpers.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Mvc.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Optimization.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Razor.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.WebPages.Deployment.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.WebPages.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.WebPages.Razor.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\WebGrease.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Helpers.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Mvc.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Optimization.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Razor.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.WebPages.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.WebPages.Deployment.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.WebPages.Razor.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Antlr3.Runtime.pdb
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Newtonsoft.Json.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\EntityFramework.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\EntityFramework.SqlServer.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Google.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.csprojResolveAssemblyReference.cache
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.dll
+c:\users\emma-opara\documents\visual studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.pdb
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.InitialCreate.resources
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.csproj.GenerateResource.Cache
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.RenamingTables.resources
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Pitchme.Models.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Pitchme.Models.pdb
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.UserRoles_table_name_change.resources
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\obj\Debug\PitchMe.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.InitialCreate.resources
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.RenamingTables.resources
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.UserRoles_table_name_change.resources
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\obj\Debug\PitchMe.csproj.GenerateResource.Cache
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\obj\Debug\PitchMe.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\obj\Debug\PitchMe.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\roslyn\csc.exe
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\roslyn\System.Collections.Immutable.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\roslyn\System.Reflection.Metadata.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\roslyn\vbc.exe
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\roslyn\VBCSCompiler.exe
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\roslyn\VBCSCompiler.exe.config
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\PitchMe.dll.config
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\PitchMe.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\PitchMe.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Antlr3.Runtime.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\EntityFramework.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\EntityFramework.SqlServer.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Google.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Web.Infrastructure.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Newtonsoft.Json.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Owin.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Pitchme.Models.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\System.Web.Helpers.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\System.Web.Mvc.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\System.Web.Optimization.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\System.Web.Razor.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\System.Web.WebPages.Deployment.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\System.Web.WebPages.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\System.Web.WebPages.Razor.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\WebGrease.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Pitchme.Models.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\System.Web.Helpers.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\System.Web.Mvc.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\System.Web.Optimization.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\System.Web.Razor.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\System.Web.WebPages.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\System.Web.WebPages.Deployment.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\System.Web.WebPages.Razor.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Antlr3.Runtime.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Newtonsoft.Json.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\EntityFramework.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\EntityFramework.SqlServer.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Google.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\PitchMe.Extension.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\SimpleInjector.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\PitchMe.Data.Repository.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\PitchMe.Services.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\PitchMe.Data.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\PitchMe.Utilities.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\PitchMe.Extension.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\SimpleInjector.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\PitchMe.Data.Repository.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\PitchMe.Services.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\PitchMe.Data.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\bin\PitchMe.Utilities.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.Continuous.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\csc.exe
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\vbc.exe
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.dll.config
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Antlr3.Runtime.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\EntityFramework.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\EntityFramework.SqlServer.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Newtonsoft.Json.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Owin.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.Data.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.Data.Repository.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.Extension.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.Models.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.Services.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\SimpleInjector.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Helpers.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Mvc.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Optimization.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Razor.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.WebPages.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\WebGrease.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.Utilities.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.Data.Repository.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.Data.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.Extension.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.Services.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.Models.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Newtonsoft.Json.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\SimpleInjector.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Helpers.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Mvc.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Optimization.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.Razor.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.WebPages.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Antlr3.Runtime.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\EntityFramework.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\EntityFramework.SqlServer.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.Utilities.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.csprojResolveAssemblyReference.cache
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.Logger.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PitchMe.Logger.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.editted.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.csproj.GenerateResource.Cache
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.updatingJobTable.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.stillOnJob.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.stillOn.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.changes.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.IncludeResumeTable.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.IncludeJobFavourites.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumeTinz.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.ResumeNoni.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.DateTimeISsue.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee1.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee2.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee3.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee4.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee5.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee6.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.ImplementLanguageInResume.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.FininshingCompanyDashboard.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.AddDateCreatedAndModified.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\Elmah.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.DealingWithSubscription.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.AddSubscriptionTable.resources
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PagedList.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PagedList.Mvc.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PagedList.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\PagedList.Mvc.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\NLog.config
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\NLog.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe\bin\NLog.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\csc.exe
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\vbc.exe
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\NLog.config
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.dll.config
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Antlr3.Runtime.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Elmah.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\EntityFramework.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\EntityFramework.SqlServer.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Newtonsoft.Json.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\NLog.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Owin.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PagedList.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PagedList.Mvc.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Data.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Data.Repository.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Extension.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Logger.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Models.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Services.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Utilities.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\SimpleInjector.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Helpers.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Mvc.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Optimization.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Razor.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.WebPages.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\WebGrease.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Data.Repository.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Data.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Extension.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Logger.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Services.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Models.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Utilities.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Newtonsoft.Json.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\NLog.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PagedList.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PagedList.Mvc.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\SimpleInjector.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Helpers.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Mvc.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Optimization.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Razor.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.WebPages.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Antlr3.Runtime.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\EntityFramework.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\EntityFramework.SqlServer.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.csprojResolveAssemblyReference.cache
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.editted.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.updatingJobTable.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.stillOnJob.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.stillOn.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.changes.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.IncludeResumeTable.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.IncludeJobFavourites.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumeTinz.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.ResumeNoni.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.DateTimeISsue.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee1.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee2.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee3.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee4.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee5.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee6.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.ImplementLanguageInResume.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.FininshingCompanyDashboard.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.AddDateCreatedAndModified.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.DealingWithSubscription.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.AddSubscriptionTable.resources
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.csproj.GenerateResource.Cache
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.EditJobTable.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\csc.exe
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\vbc.exe
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\NLog.config
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.dll.config
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Antlr3.Runtime.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Elmah.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\EntityFramework.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\EntityFramework.SqlServer.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Newtonsoft.Json.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\NLog.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Owin.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PagedList.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PagedList.Mvc.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Data.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Data.Repository.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Extension.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Logger.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Models.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Services.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Utilities.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\SimpleInjector.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Helpers.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Mvc.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Optimization.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Razor.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.WebPages.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\WebGrease.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Data.Repository.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Data.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Extension.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Logger.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Services.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Models.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PitchMe.Utilities.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Newtonsoft.Json.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\NLog.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PagedList.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\PagedList.Mvc.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\SimpleInjector.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Helpers.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Mvc.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Optimization.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.Razor.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.WebPages.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Antlr3.Runtime.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\EntityFramework.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\EntityFramework.SqlServer.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.csprojResolveAssemblyReference.cache
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.editted.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.updatingJobTable.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.stillOnJob.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.stillOn.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.changes.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.IncludeResumeTable.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.IncludeJobFavourites.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumeTinz.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.ResumeNoni.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.DateTimeISsue.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee1.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee2.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee3.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee4.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee5.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.resumee6.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.ImplementLanguageInResume.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.FininshingCompanyDashboard.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.AddDateCreatedAndModified.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.DealingWithSubscription.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.AddSubscriptionTable.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.EditJobTable.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.csproj.GenerateResource.Cache
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.AddJobAppIdToSingleSubscription.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.CorrectSubscriptionTable.resources
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe\obj\Debug\PitchMe.Migrations.xxx.resources

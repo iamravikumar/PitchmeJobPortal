@@ -1,0 +1,91 @@
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Services.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Services.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\Pitchme.Models.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\Pitchme.Models.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\obj\Debug\PitchMe.Services.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\obj\Debug\PitchMe.Services.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\obj\Debug\PitchMe.Services.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Data.Repository.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\EntityFramework.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Data.Repository.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\EntityFramework.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Data.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Data.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Utilities.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Utilities.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Services.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Services.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Data.Repository.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Models.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Utilities.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\bin\Debug\EntityFramework.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Data.Repository.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Models.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Utilities.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\obj\Debug\PitchMe.Services.csprojResolveAssemblyReference.cache
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\obj\Debug\PitchMe.Services.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Logic\obj\Debug\PitchMe.Services.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Services.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Services.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Data.Repository.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Models.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Utilities.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\EntityFramework.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Data.Repository.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Models.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Utilities.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\obj\Debug\PitchMe.Services.csprojResolveAssemblyReference.cache
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\obj\Debug\PitchMe.Services.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\obj\Debug\PitchMe.Services.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.Mvc.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.Razor.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.WebPages.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.Mvc.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.Razor.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.WebPages.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Services.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Services.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Data.Repository.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Models.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Utilities.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.Mvc.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\EntityFramework.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.Razor.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.WebPages.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Data.Repository.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Models.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PitchMe.Utilities.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.Mvc.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.Razor.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.WebPages.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\obj\Debug\PitchMe.Services.csprojResolveAssemblyReference.cache
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\obj\Debug\PitchMe.Services.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\obj\Debug\PitchMe.Services.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PagedList.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Logic\bin\Debug\PagedList.xml

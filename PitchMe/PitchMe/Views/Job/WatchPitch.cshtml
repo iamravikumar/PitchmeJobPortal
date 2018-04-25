@@ -1,0 +1,58 @@
+﻿
+@{ Layout = null;}
+
+<link href="~/assets/css/web-rtc-style.css" rel="stylesheet" />
+<style>
+    audio {
+        vertical-align: bottom;
+        width: 10em;
+    }
+
+    video {
+        vertical-align: top;
+        max-width: 100%;
+    }
+
+    }
+</style>
+<script src="~/assets/js/RecordRTC.js"></script>
+<body>
+    <article>
+        <header style="text-align: center;">
+            <h1>
+                Video pitch of <strong class="text-primary"> @ViewBag.FullName</strong> <br /> for the position of <strong class="text-primary"> @ViewBag.JobTitle</strong>
+            </h1>
+
+        </header>
+
+        <section class="experiment">
+            @*<h2 class="header text-center">Watch Pitch</h2>*@
+            <div id="container" style="padding:1em 2em;"></div>
+        </section>
+    </article>
+
+    <script type="text/javascript">
+        window.onload = init();
+
+        function init() {
+            var mediaElement = document.createElement('video');
+
+            var source = document.createElement('source');
+            source.src = document.location.origin + '/uploads/' + "@ViewBag.FileName";  // vidFileName.replace(/"/g, '');
+            source.type = type = type = 'video/mp4; codecs="avc1.4D401E, mp4a.40.2"'; //'video/webm; codecs="vp8, vorbis"';
+
+            debugger;
+            mediaElement.appendChild(source);
+
+            mediaElement.controls = true;
+            var child = container.lastChild;
+            if (child) {
+                container.removeChild(child);
+            }
+
+            container.appendChild(mediaElement);
+        }
+    </script>
+
+</body>
+

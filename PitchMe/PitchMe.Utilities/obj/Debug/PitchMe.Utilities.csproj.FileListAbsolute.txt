@@ -1,0 +1,15 @@
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Utilities\bin\Debug\PitchMe.Utilities.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Utilities\bin\Debug\PitchMe.Utilities.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Utilities\obj\Debug\PitchMe.Utilities.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Utilities\obj\Debug\PitchMe.Utilities.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Utilities\obj\Debug\PitchMe.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Utilities\bin\Debug\PitchMe.Utilities.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Utilities\bin\Debug\PitchMe.Utilities.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Utilities\obj\Debug\PitchMe.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Utilities\obj\Debug\PitchMe.Utilities.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Utilities\obj\Debug\PitchMe.Utilities.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Utilities\bin\Debug\PitchMe.Utilities.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Utilities\bin\Debug\PitchMe.Utilities.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Utilities\obj\Debug\PitchMe.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Utilities\obj\Debug\PitchMe.Utilities.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Utilities\obj\Debug\PitchMe.Utilities.pdb

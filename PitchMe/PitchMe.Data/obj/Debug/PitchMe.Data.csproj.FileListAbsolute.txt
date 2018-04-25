@@ -1,0 +1,48 @@
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Data\obj\Debug\PitchMe.Data.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Data.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Data.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Data\obj\Debug\PitchMe.Data.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Data\obj\Debug\PitchMe.Data.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Data\bin\Debug\EntityFramework.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Data\bin\Debug\EntityFramework.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Models.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Models.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Data.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Data.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Models.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Models.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Data\obj\Debug\PitchMe.Data.csprojResolveAssemblyReference.cache
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Data\obj\Debug\PitchMe.Data.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Data\obj\Debug\PitchMe.Data.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Data.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Data.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Models.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Models.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Data\obj\Debug\PitchMe.Data.csprojResolveAssemblyReference.cache
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Data\obj\Debug\PitchMe.Data.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Data\obj\Debug\PitchMe.Data.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Data.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Data.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Models.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\PitchMe.Models.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Data\obj\Debug\PitchMe.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Data\obj\Debug\PitchMe.Data.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Data\obj\Debug\PitchMe.Data.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\PagedList.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Data\bin\Debug\PagedList.xml

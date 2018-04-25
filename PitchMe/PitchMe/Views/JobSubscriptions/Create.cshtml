@@ -1,0 +1,90 @@
+﻿@model PitchMe.Models.Implementation.Subscription
+
+
+<section>
+    <div class="container">
+        @using (Html.BeginForm("Create", "JobSubscriptions", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary()
+            @Html.Hidden("VidFileName", (string)ViewBag.VideoFileName)
+            <div class="panel col-sm-6 col-lg-offset-3">
+                <div class="panel-heading">
+                    Create new subscription
+                </div>
+                <div class="panel-body">
+                    <fieldset>
+                        <div class="row form-group">
+                            <label class="col-sm-4 label-title">Subscription Type</label>
+                            <div class="col-sm-8">
+                                @Html.DropDownList("subscriptionType", null, "Select", new { @class = "form-control" })
+                            </div>
+                           
+                        </div>
+                        <div class="row form-group">
+                            <label class = "col-sm-4 label-title" >Number of Months</label>
+                            <div class="col-sm-8">
+                                <input name="noOfMonths" id="noOfMonths"placeholder="eg. 6" class="form-control"/>
+                            </div>
+                            
+                        </div>
+                        <div class="row form-group">
+                            <label class="col-sm-4 label-title">Phone Number</label>
+                            <div class="col-sm-8">
+                                @Html.TextBoxFor(m => m.PhoneNumber, new { @class = "form-control" })
+                            </div>
+                            
+                        </div> 
+                        <input type="submit" value="Submit" class="btn btn-primary pull-right" />
+                    </fieldset>
+                </div>
+                <div class="panel-footer">
+                    @ViewBag.Msg
+                </div>
+            </div>                    
+        }
+    </div>
+</section>
+
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
+
+<script src="~/assets/js/jquery.min.js"></script>
+<script type="text/javascript">
+    
+    function InitializePage() {
+        document.getElementById("NumberOfMonths").disabled = true;
+    }
+    window.onload = InitializePage
+
+    $("#subscriptionType").change(function (e) {
+        var subType = $("#subscriptionType").val()
+        if (subType == "Single") {
+            document.getElementById("NumberOfMonths").disabled = true;
+        }
+        else {
+            document.getElementById("NumberOfMonths").disabled = false;
+        }
+    })
+
+
+    function ApplyClicked() {
+        var retVal = confirm("Do you want to submit a pitch ?");
+        if (retVal == true) {
+            //document.write("User wants to continue!");
+            window.location.replace("/job/apply?id=1&pitched=1");
+            return true;
+        }
+        else {
+            window.location.replace("/job/apply?id=1&pitched=0");
+            return false;
+        }
+    }
+</script>

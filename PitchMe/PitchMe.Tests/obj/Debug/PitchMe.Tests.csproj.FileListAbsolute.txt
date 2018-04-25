@@ -1,0 +1,201 @@
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.dll.config
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.pdb
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Owin.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.pdb
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.dll
+C:\Users\Emma-Opara\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.dll.config
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.pdb
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\Newtonsoft.Json.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Helpers.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Mvc.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Razor.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\Newtonsoft.Json.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Helpers.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Mvc.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Razor.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\Visual Studio 2015 Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.dll.config
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Data.Repository.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Extension.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Models.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\SimpleInjector.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Data.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Services.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Utilities.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Data.Repository.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Extension.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Models.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\SimpleInjector.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Data.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Services.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Utilities.pdb
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.dll
+C:\Users\Akin\Documents\Visual Studio 2015\Projects\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.dll.config
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Data.Repository.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Extension.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Models.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\SimpleInjector.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Data.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Services.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Utilities.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Data.Repository.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Extension.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Models.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\SimpleInjector.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Data.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Services.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Utilities.pdb
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.dll
+C:\Users\Akin\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.dll.config
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Tests.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Data.Repository.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Extension.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Models.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\SimpleInjector.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Data.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Services.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Utilities.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Data.Repository.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Extension.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Models.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\SimpleInjector.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Data.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Services.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PitchMe.Utilities.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\obj\Debug\PitchMe.Tests.pdb
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PagedList.dll
+C:\Users\Sodiq\Source\Repos\PitchMe\PitchMe\PitchMe.Tests\bin\Debug\PagedList.xml
